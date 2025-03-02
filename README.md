@@ -14,13 +14,12 @@
 
    Due to the large size of the files, we have adopted the sharing method of Baidu Netdisk. The specific link is as follows：[https://pan.baidu.com/s/1y8tWlsduJO1yaWllyV-aYQ](https://pan.baidu.com/s/1mJRI5-n2SRSugyXcHvgT6A) and extraction code：sif7.
 
-4. If you use this dataset, please cite these papers:
-
-   [1] Junyan Tian, Ning Ma, Meiyuan Zou, Yong Lv*, Wenzheng Chi*, and Lining Sun. An Optimised Lightweight YOLO-MRC Framework for Enhanced Obstacle Detection in Service Robots[J]. The Visual Computer.
-
    
 
    
 
    
+
+   
+
 
